@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+  background: url('https://3.bp.blogspot.com/-Lw4lYj3Mb3I/T3QBHz2GHWI/AAAAAAAALd0/6cL4TKkkGOk/s1600/paraisos+tropicales,playas,belleza+%281%29.jpg');
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

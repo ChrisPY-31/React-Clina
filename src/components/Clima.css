@@ -1,0 +1,27 @@
+.imagen{
+    height: 150px;
+    width: 150px;
+}
+.input-clase{
+    width: 300px;
+    height: 34px;
+    outline: none;
+}
+.card{
+    position: relative;
+}
+.cerrar{
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 1px solid #fff;
+    background-color: #f00;
+    height: 30px;
+    width: 30px;
+    font-weight: bold;
+    border-radius: 100%;
+    cursor: pointer;
+}
+.cerrar:hover{
+    background-color: rgb(158, 4, 4);
+}
